@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>7Zip</id>
+    <version>1900</version>
+    <title>7Zip</title>
+    <authors>Test Author</authors>
+    <tags>7zippackage</tags>
+    <summary>This is a test</summary>
+    <description>Test description</description>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
